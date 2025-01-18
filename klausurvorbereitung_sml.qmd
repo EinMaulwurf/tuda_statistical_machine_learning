@@ -5,8 +5,7 @@ format:
     code-fold: true
     toc: true
     toc-depth: 3
-execute:
-  cache: true
+    embed-resources: true
 ---
 
 Required packages
